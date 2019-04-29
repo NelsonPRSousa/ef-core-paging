@@ -21,7 +21,7 @@ GET api/pointOfInterest?page=1&pageSize=10
 
 ### Notes
 
-In this example we are querying our databse two times (2 trips to database):
+In this example we are querying our database two times (2 trips to database):
 ```
 RowCount = await query.CountAsync()
 ...
