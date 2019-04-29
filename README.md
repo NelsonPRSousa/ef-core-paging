@@ -1,4 +1,4 @@
-# In Memory Entity Framework Core
+# Data Pagination
 
 Data paging using ASP.NET Core 2.2 and Entity Framework Core 2.2.
 
